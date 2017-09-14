@@ -5,7 +5,7 @@ class Reverse
   public static void main(String args[])
   {
     int n,t,rem,rev=0;
-    System.out.prinln("Enter the Number");
+    System.out.println("Enter the Number");
     Scanner s=new Scanner(System.in);
     n=s.nextInt();
     t=n;
